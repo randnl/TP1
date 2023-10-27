@@ -1,0 +1,11 @@
+{
+  "name": "data-tracking-crud-example",
+  "version": "1.0.0",
+  "description": "My asynchronous CRUD WEB using HTML, Bootstrap and JavaScript to manage semester grades.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

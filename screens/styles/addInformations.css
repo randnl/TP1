@@ -1,0 +1,26 @@
+@import '../../styles/reset.css';
+@import '../../styles/variables.css';
+@import '../../styles/components/text.css';
+
+.titulo {
+    font-size: 1.8em;
+}
+
+.form {
+    background-color: var(--corRoxoClaro);
+}
+
+.modal-title,
+.titulo {
+    color: var(--corDeFontePadrao);
+}
+
+.modal-body {
+    background-color: var(--corRoxoEscuro);
+}
+
+.modal-header,
+.modal-footer {
+    background-color: var(--corRoxoClaro);
+    border-style: none;
+}

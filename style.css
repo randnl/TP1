@@ -1,0 +1,40 @@
+@import 'styles/reset.css';
+@import 'styles/variables.css';
+@import 'styles/components/text.css';
+
+body {
+    font-family: var(--fontePrincipal);
+    background-color: var(--corRoxoEscuro);
+}
+
+.navbar {
+    background-color: var(--corRoxoClaro);
+}
+
+.navbar-brand,
+.nav-link,
+.material-icons,
+.navbar-brand:hover,
+.nav-link:hover,
+.material-icons:hover {
+    color: var(--corDeFontePadrao);
+}
+
+.navbar-toggler,
+.navbar-toggler:hover {
+    border: none;
+}
+
+button.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.transparent-table {
+    background-color: transparent;
+}
+
+.transparent-table th,
+.transparent-table td {
+    background-color: transparent;
+    color: white;
+}

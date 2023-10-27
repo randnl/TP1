@@ -1,0 +1,19 @@
+:root {
+    /* Cores de fonte; */
+    --corDeFontePadrao: #FFFFFF;
+    --corDeFonteAlternativa: #000000;
+
+    /* Cores principais; */
+    --corRoxo: #4C4AAD;
+    --corRoxoEscuro: #03001C;
+    --corRoxoClaro: #5E5BCB;
+
+    /* Cores de botao; */
+    --corBotaoVerde: #68E209;
+    --corBotaoAmarelo: #E2C909;
+    --corBotaoVermelho: #FF4454;
+
+    /* Principais fontes; */
+    --fontePrincipal: 'Poppins';
+    --fonteAlternativa: 'Inter';
+}

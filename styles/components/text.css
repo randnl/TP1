@@ -1,0 +1,35 @@
+@media(max-width: 280px) {
+    html {
+        font-size: .6rem;
+    }
+    .material-symbols-outlined {
+        font-size: 1.5rem;
+    }
+}
+
+@media(min-width: 281px) and (max-width: 575px) {
+    html {
+        font-size: .8rem;
+    }
+    .material-symbols-outlined {
+        font-size: 1.5rem;
+    }
+}
+
+@media(min-width: 576px) and (max-width: 768px) {
+    html {
+        font-size: 1rem;
+    }
+    .material-symbols-outlined {
+        font-size: 1.5rem;
+    }
+}
+
+@media(min-width: 769px) and (max-width: 992px) {
+    html {
+        font-size: 1.2rem;
+    }
+    .material-symbols-outlined {
+        font-size: 1.5rem;
+    }
+}
